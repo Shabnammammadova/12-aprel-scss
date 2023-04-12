@@ -1,0 +1,51 @@
+body {
+  background-color: aqua;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 800px;
+  text-align: center;
+}
+
+.btn {
+  color: black;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 3px;
+  font-family: "Poiret One", cursive;
+  font-size: 2em;
+}
+
+.btn-primary {
+  background: #2ecc71;
+}
+.btn-primary:hover {
+  background: #26ab5f;
+  transition: all 0.3s ease;
+}
+.btn-primary:active {
+  background: #176437;
+}
+
+.btn-secondary {
+  background: #f1c40f;
+}
+.btn-secondary:hover {
+  background: #cba50c;
+  transition: all 0.3s ease;
+}
+.btn-secondary:active {
+  background: #796307;
+}
+
+.btn-red {
+  background: #e74c3c;
+}
+.btn-red:hover {
+  background: #df2e1b;
+  transition: all 0.3s ease;
+}
+.btn-red:active {
+  background: #921e12;
+}/*# sourceMappingURL=main.css.map */
